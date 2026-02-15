@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "エメラルドシティ (EX10SION)",
+  "base_artist": "TOKOTOKO(西沢さんP)、花隈千冬",
+  "createdAt": "2026-02-15T13:28:47.826680Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "エメラルドシティ",
+      "artist": "TOKOTOKO",
+      "has_synced": false,
+      "path": "select/01_エメラルドシティ_TOKOTOKO.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "エメラルドシティ",
+      "artist": "TOKOTOKO(西沢さんP) feat. MAYU",
+      "has_synced": false,
+      "path": "select/02_エメラルドシティ_TOKOTOKO(西沢さんP)_feat._MAYU.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "エメラルドシティ",
+      "artist": "西沢さんP feat. 000",
+      "has_synced": false,
+      "path": "select/03_エメラルドシティ_西沢さんP_feat._000.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "エメラルドシティ",
+      "artist": "TOKOTOKO feat. Mikito-P",
+      "has_synced": false,
+      "path": "select/04_エメラルドシティ_TOKOTOKO_feat._Mikito-P.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "エメラルドシティ",
+      "artist": "TOKOTOKO(西沢さんP)",
+      "has_synced": false,
+      "path": "select/pl_01_エメラルドシティ_TOKOTOKO(西沢さんP).txt"
+    }
+  ]
+}
